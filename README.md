@@ -23,10 +23,6 @@ That's it — no installation, no dependencies.
 
 The flower blooms and sways in place while the stats overlay in the corner updates in real time, showing the current bloom stage, sway angle, and letter count making up the art.
 
-## License
-
-No license has been added yet, so all rights are reserved by default. Add a `LICENSE` file if you'd like to allow others to reuse or modify this project.
-
 ## Author
 
 Made by **r0Ot** — credited in the animation as `@made_by_r0Ot`.
